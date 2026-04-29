@@ -14,8 +14,6 @@
 
 - 🎓 Pursuing my **MS in Data Science** at Northeastern's Khoury College (Sept 2025 to Dec 2027)
 - 🛠️ Background in **Mechatronics Engineering** (BTech, NMIMS Mumbai) and 2 years as an AV & Automation Consultant
-- 🤖 Co-founder of **Team KOSMOS**, MPSTME's Mars Rover team
-- 🔭 Currently building ML pipelines for **medical imaging** and **structured data competitions**
 - 💼 Open to **Summer/Fall 2026 co-op** opportunities in ML engineering and applied data science
 - 📍 Based in **Boston, MA**
 
@@ -66,19 +64,6 @@
 | 🛒 [**Market Basket Analysis**](https://github.com/keithfernandes12/Market-Basket-Analysis) | Apriori on 38,765 grocery transactions, 1,376 association rules, lift up to 2.18x |
 | 🩺 [**Diabetes Prediction**](https://github.com/keithfernandes12/Healthcare-Analytics-Diabetes-Prediction-) | 6-model comparison on CDC NHANES data (9,813 participants), 88.1% accuracy with ensembles |
 | 🚚 [**Supply Chain Shipment Pricing**](https://github.com/keithfernandes12/Supply-Chain-Shipment-Pricing) | EDA + delivery delay feature engineering on 10,324 ARV/HIV health commodity logistics records |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keithfernandes12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Keith's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithfernandes12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=keithfernandes12&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
