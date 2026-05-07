@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Keith 👋</h1>
 
 <p align="center">
-  <em>Data Science MS @ Northeastern · Aspiring ML Engineer · Mechatronics @ heart</em>
+  <em>Data Science MS @ Northeastern 
 </p>
 
 <p align="center">
